@@ -1,0 +1,36 @@
+{
+  "name": "vue-todo-server",
+  "version": "1.0.0",
+  "description": "Simple HTTP server for Todo List",
+  "main": "server.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.11",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.29",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.2",
+    "vue": "^3.5.43"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artamzone/Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/artamzone/Test/issues"
+  },
+  "homepage": "https://github.com/artamzone/Test#readme"
+}
